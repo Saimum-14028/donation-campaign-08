@@ -11,7 +11,7 @@ const DonationDetailsCard = ({donationDetails}) => {
           if (!donatedItems) {
             donatedList.push(donationDetails);
             localStorage.setItem("donated", JSON.stringify(donatedList));
-            swal("Good job!", "Products added successfully!", "success");
+            swal("Done!", "Donation added successfully!", "success");
           } 
           else {
             const isExits = donatedItems.find((item) => item.id === donationDetails.id);

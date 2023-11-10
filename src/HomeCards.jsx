@@ -16,7 +16,7 @@ const HomeCards = ({cards}) => {
                                 <div className="card-body">
                                     <div className="w-20">
                                         <p className={`${card.Color_for_category_bg} text-center text-sm font-normal`}>{card.category}</p>
-                                        </div>
+                                    </div>
                                     <h2 className="card-title text-xl font-semibold">{card.title}</h2>
                                 </div>
                             </div>
