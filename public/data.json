@@ -1,0 +1,135 @@
+[
+    {
+      "id": "1",
+      "image": "https://i.ibb.co/sJ8Ln87/Health.png",
+      "title": "Clean water",
+      "category": "Health",
+      "description": "improving the health sector involves ensuring universal access to quality healthcare, building and equipping modern facilities, and providing comprehensive training and support for healthcare professionals. Investment in medical research and innovation is crucial, as is promoting preventive care and healthy behaviors. Embracing digital health solutions like telemedicine and electronic records enhances accessibility and efficiency. Stringent regulation and quality assurance measures are necessary, along with targeted efforts to address healthcare disparities and integrate mental health into primary care. Preparedness for emergencies, collaboration among stakeholders, data-driven decision-making, and patient-centered care round out the key strategies. Achieving these goals requires sustained commitment, financial resources, and active engagement from all involved parties.",
+      "price": 290,
+      "Color for category_bg": "bg-blue-400",
+      "Color for card_bg": "bg-blue-200",
+      "Color for text and button": "text-blue-800"
+    },
+    {
+        "id": "2",
+        "image": "https://i.ibb.co/sJ8Ln87/Health.png",
+        "title": "Free medicine",
+        "category": "Health",
+        "description": "improving the health sector involves ensuring universal access to quality healthcare, building and equipping modern facilities, and providing comprehensive training and support for healthcare professionals. Investment in medical research and innovation is crucial, as is promoting preventive care and healthy behaviors. Embracing digital health solutions like telemedicine and electronic records enhances accessibility and efficiency. Stringent regulation and quality assurance measures are necessary, along with targeted efforts to address healthcare disparities and integrate mental health into primary care. Preparedness for emergencies, collaboration among stakeholders, data-driven decision-making, and patient-centered care round out the key strategies. Achieving these goals requires sustained commitment, financial resources, and active engagement from all involved parties.",
+        "price": 310,
+        "Color for category_bg": "bg-blue-400",
+        "Color for card_bg": "bg-blue-200",
+        "Color for text and button": "text-blue-800"
+      },
+      {
+        "id": "3",
+        "image": "https://i.ibb.co/sJ8Ln87/Health.png",
+        "title": "Free checkup",
+        "category": "Health",
+        "description": "improving the health sector involves ensuring universal access to quality healthcare, building and equipping modern facilities, and providing comprehensive training and support for healthcare professionals. Investment in medical research and innovation is crucial, as is promoting preventive care and healthy behaviors. Embracing digital health solutions like telemedicine and electronic records enhances accessibility and efficiency. Stringent regulation and quality assurance measures are necessary, along with targeted efforts to address healthcare disparities and integrate mental health into primary care. Preparedness for emergencies, collaboration among stakeholders, data-driven decision-making, and patient-centered care round out the key strategies. Achieving these goals requires sustained commitment, financial resources, and active engagement from all involved parties.",
+        "price": 410,
+        "Color for category_bg": "bg-blue-400",
+        "Color for card_bg": "bg-blue-200",
+        "Color for text and button": "text-blue-800"
+      },
+      {
+        "id": "4",
+        "image": "https://i.ibb.co/w7G1D2y/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 290,
+        "Color for category_bg": "bg-red-400",
+        "Color for card_bg": "bg-red-200",
+        "Color for text and button": "text-red-800"
+      },
+      {
+        "id": "5",
+        "image": "https://i.ibb.co/w7G1D2y/Education.png",
+        "title": "Free school bag",
+        "category": "Education",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 20,
+        "Color for category_bg": "bg-red-400",
+        "Color for card_bg": "bg-red-200",
+        "Color for text and button": "text-red-800"
+      },
+      {
+        "id": "6",
+        "image": "https://i.ibb.co/w7G1D2y/Education.png",
+        "title": "Free books",
+        "category": "Education",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": 30,
+        "Color for category_bg": "bg-red-400",
+        "Color for card_bg": "bg-red-200",
+        "Color for text and button": "text-red-800"
+      },
+      {
+        "id": "7",
+        "image": "https://i.ibb.co/r5Hk6Dv/Food.png",
+        "title": "Better food",
+        "category": "Food",
+        "description": "Food charity plays a vital role in addressing food insecurity and alleviating hunger within communities. It provides immediate relief to individuals and families facing economic hardship, ensuring they have access to nutritious meals. Additionally, food charity helps bridge gaps in social safety nets and supports vulnerable populations, including low-income families, homeless individuals, and those affected by emergencies or disasters. Beyond meeting basic nutritional needs, it also fosters a sense of community and solidarity. By redistributing surplus food and reducing food waste, food charity contributes to sustainability efforts and minimizes environmental impact. Overall, food charity serves as a crucial lifeline, offering temporary assistance while advocating for systemic solutions to long-term food security issues.",
+        "price": 300,
+        "Color for category_bg": "bg-orange-400",
+        "Color for card_bg": "bg-orange-200",
+        "Color for text and button": "text-orange-800"
+      },
+      {
+        "id": "8",
+        "image": "https://i.ibb.co/r5Hk6Dv/Food.png",
+        "title": "One meal",
+        "category": "Food",
+        "description": "Food charity plays a vital role in addressing food insecurity and alleviating hunger within communities. It provides immediate relief to individuals and families facing economic hardship, ensuring they have access to nutritious meals. Additionally, food charity helps bridge gaps in social safety nets and supports vulnerable populations, including low-income families, homeless individuals, and those affected by emergencies or disasters. Beyond meeting basic nutritional needs, it also fosters a sense of community and solidarity. By redistributing surplus food and reducing food waste, food charity contributes to sustainability efforts and minimizes environmental impact. Overall, food charity serves as a crucial lifeline, offering temporary assistance while advocating for systemic solutions to long-term food security issues.",
+        "price": 3,
+        "Color for category_bg": "bg-orange-400",
+        "Color for card_bg": "bg-orange-200",
+        "Color for text and button": "text-orange-800"
+      },
+      {
+        "id": "9",
+        "image": "https://i.ibb.co/r5Hk6Dv/Food.png",
+        "title": "One month meal",
+        "category": "Food",
+        "description": "Food charity plays a vital role in addressing food insecurity and alleviating hunger within communities. It provides immediate relief to individuals and families facing economic hardship, ensuring they have access to nutritious meals. Additionally, food charity helps bridge gaps in social safety nets and supports vulnerable populations, including low-income families, homeless individuals, and those affected by emergencies or disasters. Beyond meeting basic nutritional needs, it also fosters a sense of community and solidarity. By redistributing surplus food and reducing food waste, food charity contributes to sustainability efforts and minimizes environmental impact. Overall, food charity serves as a crucial lifeline, offering temporary assistance while advocating for systemic solutions to long-term food security issues.",
+        "price": 230,
+        "Color for category_bg": "bg-orange-400",
+        "Color for card_bg": "bg-orange-200",
+        "Color for text and button": "text-orange-800"
+      },
+      {
+        "id": "10",
+        "image": "https://i.ibb.co/whqmC5Z/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "description": "Cloth charity is important for several reasons. Firstly, it addresses a basic human need for clothing, providing warmth, protection, and dignity to individuals and families who may not have the means to acquire it themselves. Secondly, it supports sustainability efforts by extending the lifespan of clothing items and reducing textile waste. By redistributing gently used or surplus clothing, cloth charity contributes to a more environmentally conscious and socially responsible approach to fashion. Additionally, it can have a positive impact on mental and emotional well-being, boosting self-esteem and confidence for those receiving the clothing. Lastly, cloth charity fosters a sense of community and compassion, as donors contribute to the well-being of others, creating a more connected and caring society overall.",
+        "price": 340,
+        "Color for category_bg": "bg-green-400",
+        "Color for card_bg": "bg-green-200",
+        "Color for text and button": "text-green-800"
+      },
+      {
+        "id": "11",
+        "image": "https://i.ibb.co/whqmC5Z/Clothing.png",
+        "title": "Cloth distribution",
+        "category": "Clothing",
+        "description": "Cloth charity is important for several reasons. Firstly, it addresses a basic human need for clothing, providing warmth, protection, and dignity to individuals and families who may not have the means to acquire it themselves. Secondly, it supports sustainability efforts by extending the lifespan of clothing items and reducing textile waste. By redistributing gently used or surplus clothing, cloth charity contributes to a more environmentally conscious and socially responsible approach to fashion. Additionally, it can have a positive impact on mental and emotional well-being, boosting self-esteem and confidence for those receiving the clothing. Lastly, cloth charity fosters a sense of community and compassion, as donors contribute to the well-being of others, creating a more connected and caring society overall.",
+        "price": 150,
+        "Color for category_bg": "bg-green-400",
+        "Color for card_bg": "bg-green-200",
+        "Color for text and button": "text-green-800"
+      },
+      {
+        "id": "12",
+        "image": "https://i.ibb.co/whqmC5Z/Clothing.png",
+        "title": "Children cloths",
+        "category": "Clothing",
+        "description": "Cloth charity is important for several reasons. Firstly, it addresses a basic human need for clothing, providing warmth, protection, and dignity to individuals and families who may not have the means to acquire it themselves. Secondly, it supports sustainability efforts by extending the lifespan of clothing items and reducing textile waste. By redistributing gently used or surplus clothing, cloth charity contributes to a more environmentally conscious and socially responsible approach to fashion. Additionally, it can have a positive impact on mental and emotional well-being, boosting self-esteem and confidence for those receiving the clothing. Lastly, cloth charity fosters a sense of community and compassion, as donors contribute to the well-being of others, creating a more connected and caring society overall.",
+        "price": 170,
+        "Color for category_bg": "bg-green-400",
+        "Color for card_bg": "bg-green-200",
+        "Color for text and button": "text-green-800"
+      }
+  ]
+  
