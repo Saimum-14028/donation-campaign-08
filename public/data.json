@@ -8,7 +8,8 @@
       "price": 290,
       "Color_for_category_bg": "bg-blue-400",
       "Color_for_card_bg": "bg-blue-200",
-      "Color_for_text_and_button": "text-blue-800"
+      "Color_for_text_and_button": "text-blue-800",
+      "Color_for_button": "bg-blue-800"
     },
     {
         "id": "2",
@@ -19,7 +20,8 @@
         "price": 310,
         "Color_for_category_bg": "bg-blue-400",
         "Color_for_card_bg": "bg-blue-200",
-        "Color_for_text_and_button": "text-blue-800"
+        "Color_for_text_and_button": "text-blue-800",
+        "Color_for_button": "bg-blue-800"
       },
       {
         "id": "3",
@@ -30,7 +32,8 @@
         "price": 410,
         "Color_for_category_bg": "bg-blue-400",
         "Color_for_card_bg": "bg-blue-200",
-        "Color_for_text_and_button": "text-blue-800"
+        "Color_for_text_and_button": "text-blue-800",
+        "Color_for_button": "bg-blue-800"
       },
       {
         "id": "4",
@@ -41,7 +44,8 @@
         "price": 290,
         "Color_for_category_bg": "bg-red-400",
         "Color_for_card_bg": "bg-red-200",
-        "Color_for_text_and_button": "text-red-800"
+        "Color_for_text_and_button": "text-red-800",
+        "Color_for_button": "bg-red-800"
       },
       {
         "id": "5",
@@ -52,7 +56,8 @@
         "price": 20,
         "Color_for_category_bg": "bg-red-400",
         "Color_for_card_bg": "bg-red-200",
-        "Color_for_text_and_button": "text-red-800"
+        "Color_for_text_and_button": "text-red-800",
+        "Color_for_button": "bg-red-800"
       },
       {
         "id": "6",
@@ -63,7 +68,8 @@
         "price": 30,
         "Color_for_category_bg": "bg-red-400",
         "Color_for_card_bg": "bg-red-200",
-        "Color_for_text_and_button": "text-red-800"
+        "Color_for_text_and_button": "text-red-800",
+        "Color_for_button": "bg-red-800"
       },
       {
         "id": "7",
@@ -74,7 +80,8 @@
         "price": 300,
         "Color_for_category_bg": "bg-orange-400",
         "Color_for_card_bg": "bg-orange-200",
-        "Color_for_text_and_button": "text-orange-800"
+        "Color_for_text_and_button": "text-orange-800",
+        "Color_for_button": "bg-orange-800"
       },
       {
         "id": "8",
@@ -85,7 +92,8 @@
         "price": 3,
         "Color_for_category_bg": "bg-orange-400",
         "Color_for_card_bg": "bg-orange-200",
-        "Color_for_text_and_button": "text-orange-800"
+        "Color_for_text_and_button": "text-orange-800",
+        "Color_for_button": "bg-orange-800"
       },
       {
         "id": "9",
@@ -96,7 +104,8 @@
         "price": 230,
         "Color_for_category_bg": "bg-orange-400",
         "Color_for_card_bg": "bg-orange-200",
-        "Color_for_text_and_button": "text-orange-800"
+        "Color_for_text_and_button": "text-orange-800",
+        "Color_for_button": "bg-orange-800"
       },
       {
         "id": "10",
@@ -107,7 +116,8 @@
         "price": 340,
         "Color_for_category_bg": "bg-green-400",
         "Color_for_card_bg": "bg-green-200",
-        "Color_for_text_and_button": "text-green-800"
+        "Color_for_text_and_button": "text-green-800",
+        "Color_for_button": "bg-green-800"
       },
       {
         "id": "11",
@@ -118,7 +128,8 @@
         "price": 150,
         "Color_for_category_bg": "bg-green-400",
         "Color_for_card_bg": "bg-green-200",
-        "Color_for_text_and_button": "text-green-800"
+        "Color_for_text_and_button": "text-green-800",
+        "Color_for_button": "bg-green-800"
       },
       {
         "id": "12",
@@ -129,7 +140,8 @@
         "price": 170,
         "Color_for_category_bg": "bg-green-400",
         "Color_for_card_bg": "bg-green-200",
-        "Color_for_text_and_button": "text-green-800"
+        "Color_for_text_and_button": "text-green-800",
+        "Color_for_button": "bg-green-800"
       }
   ]
   

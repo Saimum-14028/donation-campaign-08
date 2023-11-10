@@ -26,7 +26,7 @@ const HomeCards = ({cards}) => {
                 }
             </div>
 
-            <div className="w-11/12 bg-blue-200">
+            {/* <div className="w-11/12 bg-blue-200">
                 <h1 className="text-blue-800 text-sm font-normal bg-blue-400 w-20">Color</h1>
                 <h1 className="text-blue-800 text-xl font-semibold">Card Section</h1>
             </div>
@@ -44,7 +44,7 @@ const HomeCards = ({cards}) => {
             <div className="w-11/12 bg-green-200">
                 <h1 className="text-green-800 text-sm font-normal bg-green-400 w-20">Color</h1>
                 <h1 className="text-green-800 text-xl font-semibold">Card Section</h1>
-            </div>
+            </div> */}
 
         </div>
 
