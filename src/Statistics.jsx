@@ -8,7 +8,7 @@ const Statistics = () => {
     if(local)
         length = local.length;
 
-    console.log(length);
+  //  console.log(length);
 
     const data = [
         { name: 'Group A', value: length},
